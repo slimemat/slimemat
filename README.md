@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm slimemat (Matheus B Garrido)
 
-<!--
-**slimemat/slimemat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub. This is a collection of some of the projects I've chosen to share publicly.  
+GitHub is a showcase — not everything I've worked on appears here, but it’s a good window into what I code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Most Used Languages
+![Top Languages here](https://github-readme-stats.vercel.app/api/top-langs/?username=slimemat&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 GitHub Stats
+![Slimemat's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimemat&show_icons=true&theme=tokyonight)
+
+---
+
+## 👋 Linkedin profile
+![Say hi to slimemat](www.linkedin.com/in/matheus-bueno-garrido-449126200/)
