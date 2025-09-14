@@ -10,10 +10,5 @@ GitHub is a showcase — not everything I've worked on appears here, but it’s 
 
 ---
 
-## 🌟 GitHub Stats
-![Slimemat's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimemat&show_icons=true&theme=tokyonight)
-
----
-
 ## 👋 Linkedin profile
-![Say hi to slimemat](www.linkedin.com/in/matheus-bueno-garrido-449126200/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bueno-garrido-449126200/)
