@@ -1,7 +1,7 @@
 # 👋 Hi, I'm slimemat (Matheus B Garrido)
 
 Welcome to my GitHub. This is a collection of some of the projects I've chosen to share publicly.  
-GitHub is a showcase — not everything I've worked on appears here, but it’s a good window into what I code.  
+GitHub is a showcase: not everything I've worked on appears here, but it’s a good window into what I code.  
 
 ---
 
